@@ -1,0 +1,7 @@
+E:\МАРИНА\Си#\Task6\bin\Debug\Task6.exe.config
+E:\МАРИНА\Си#\Task6\bin\Debug\Task6.exe
+E:\МАРИНА\Си#\Task6\bin\Debug\Task6.pdb
+E:\МАРИНА\Си#\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
+E:\МАРИНА\Си#\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+E:\МАРИНА\Си#\Task6\obj\Debug\Task6.exe
+E:\МАРИНА\Си#\Task6\obj\Debug\Task6.pdb
